@@ -2,7 +2,7 @@ package solved
 
 import "fmt"
 
-type test struct {
+type testFind struct {
 	testInput []int
 	output    int
 }
@@ -20,7 +20,7 @@ func findIndex(slice []int, val int) []int {
 }
 
 func testFindIdx() {
-	tests := []test{{[]int{1, 2, 3, 4}, 1}, {[]int{1, 2, 2, 3}, 2}}
+	tests := []testFind{{[]int{1, 2, 3, 4}, 1}, {[]int{1, 2, 2, 3}, 2}}
 
 	for _, t := range tests {
 		fmt.Println(findIndex(t.testInput, t.output))

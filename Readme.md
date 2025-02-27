@@ -11,4 +11,5 @@
  8. [Remove duplicates](solved/removeDuplicates.go) 
  9. [Find Index](solved/findIndex.go)
  10. [Count occurrences](solved/countOccurrences.go)
- 11. 
+ 11. [Common elements](solved/commonElements.go)
+ 
