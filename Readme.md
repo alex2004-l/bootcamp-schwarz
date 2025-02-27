@@ -20,3 +20,6 @@ Leetcode:
 1. TwoSum - [link](https://leetcode.com/problems/two-sum/) - [solution](leetcode/twosum.go)
 2. SearchInsert - [link](https://leetcode.com/problems/search-insert-position/) [solution](leetcode/searchInsert.go)
 3. PlusOne - [link](https://leetcode.com/problems/plus-one/) [solution](leetcode/plusOne.go)
+4. NextGreaterLetter - [link](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) [solution](leetcode/nextGreaterLetter.go)
+5. MoveZeroes - [link](https://leetcode.com/problems/move-zeroes) [solution](leetcode/moveZero.go)
+6. 
