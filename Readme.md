@@ -35,4 +35,7 @@ Leetcode:
 16. Ransom Note - [link](https://leetcode.com/problems/ransom-note/) | [solution](leetcode/ransomNote.go)
 17. Merge Two 2D Arrays - [link](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/) | [solution](leetcode/mergeArrays.go)
 18. Climb Stairs - [link](https://leetcode.com/problems/climbing-stairs/) | [solution](leetcode/climbStairs.go)
-19. [link]() [solution]()
+19. Reverse Words - [link](https://leetcode.com/problems/reverse-words-in-a-string/) | [solution](leetcode/reverseWords.go)
+20. [link]() | [solution]()
+21. [link]() | [solution]()
+22. [link]() | [solution]()
