@@ -20,6 +20,7 @@ Update: 05/03/2025
 
  12. [Capitalize the first letter](solved/capitalize.go)
  13. [Shift word order](solved/shiftWord.go)
+ 14. [Mirror words](solved/mirrorWords.go)
 
 ---
 Leetcode:
