@@ -1,3 +1,5 @@
+// Shift each word with a position to the left
+
 func getWords(s string) []string {
 	result := make([]string, 0, len(s)/2+1)
 	word := make([]byte, 0, len(s))

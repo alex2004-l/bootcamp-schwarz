@@ -1,3 +1,5 @@
+// Reverse each word of the sentence
+
 func reverseString(s string) string {
 	result := []byte(s)
 
