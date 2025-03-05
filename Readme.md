@@ -15,6 +15,13 @@
  10. [Count occurrences](solved/countOccurrences.go)
  11. [Common elements](solved/commonElements.go)
 
+ ---
+Update: 05/03/2025
+
+ 12. [Capitalize the first letter](solved/capitalize.go)
+ 13. [Shift word order](solved/shiftWord.go)
+
+---
 Leetcode:
 
 1. TwoSum - [link](https://leetcode.com/problems/two-sum/) | [solution](leetcode/twosum.go)

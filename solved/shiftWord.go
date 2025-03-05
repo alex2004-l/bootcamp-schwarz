@@ -1,7 +1,3 @@
-package main
-
-import "fmt"
-
 func getWords(s string) []string {
 	result := make([]string, 0, len(s)/2+1)
 	word := make([]byte, 0, len(s))
@@ -54,8 +50,4 @@ func shiftWord(s string) string {
 	}
 
 	return string(result)
-}
-
-func main() {
-	fmt.Println(shiftWord("  ana"))
 }
